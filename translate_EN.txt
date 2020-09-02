@@ -1,0 +1,14 @@
+You already have a ping for that game!
+Added a ping for _{0}_.
+Invalid title ID: {0}.
+You do not have a ping for that game!
+Deleted ping for _{0}_.
+You have no pings.
+You have pings for:
+An error occured retreiving the list of guild members. This most likely means that this is a DM.
+<@{0.author.id}> would like to play one of {1} with you in <#{0.channel.id}>.\n     
+Your message was sent.
+Title: _{0}_\nWiimmfi Support Status:\n{1}
+For all DS and DSiWare games, the title IDs can be found in:\n<https://www.gametdb.com/dstdb.txt?LANG={0}>\nor at the bottom of a DS Game Card.\nFor all WiiWare, Channels, VC, etc., the title IDs can be found in:\n<https://www.gametdb.com/wiitdb.txt?LANG={0}>\nThis is where Wii Game Discs' IDs can be found too, except you need to find the one with the correct publisher code at the end.\nThese are found at <https://www.gametdb.com/WiiCompanies>. However, modifications will modify or remove the publisher code.\nAlso take into account the meaning of the fourth letter: <https://wiibrew.org/wiki/Title_database#Region_Codes>
+`^^addping <ID>`: add a game ping.\n`^^delping <ID>`: delete a game ping.\n`^^listpings`: list all of your game pings.\n`^^ping <ID> <message>`: ping all people who have added pings for a certain game.\n`^^query [ID]`: get information on a game, or, if no ID is provided, get instructions to get title IDs.\n`^^translate`: get information on translation.
+Want to help translate? Great!\nI accept all translations, but at first, only English, Japanese, French, German, Spanish, Italian, Dutch, and Korean will be added. Once I have all of those, I will add Portuguese, Russian, Chinese, and Taiwanese. Once I have all 12, I will add all translations.\nAs for translation itself, retain all Discord formatting and Python `str.format()` rules. Also, the list of publishers and list of region codes found when using `^^query` without an argument are available only in English, so please indicate as such.\nEnglish translation by Sara-L; https://cdn.discordapp.com/attachments/750176818656444417/750787780354768937/translate_EN.txt

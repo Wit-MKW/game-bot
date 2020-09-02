@@ -1,0 +1,861 @@
+**Full support**\nRankings are not updated, but work.	YBNJ	DS Bungaku Zenshuu
+**Full support**\nRankings are not updated, but work.	YBND	Bibliothek der Klassischen Buecher	YBNF	100 Livres Classiques	YBNP	100 Classic Book Collection
+**Full support**\nRankings are not updated, but work.	YBNE	100 Classic Books
+**Full support**	WCUJ	뜨거운 12 게임: 살랑살랑 파티!
+**Full support**	WCUP	3-2-1, 래틀 배틀!
+**Full support**	WCUE	3-2-1, 래틀 배틀!
+**Full support**	C6PJ	Rittai Picross
+**Full support**	C6PP	Picross 3D
+**Full support**	C6PE	Picross 3D
+**Testing**	YW2E	Advance Wars - Days of Ruin	YW2P	Advance Wars - Dark Conflict
+**Testing**	WTMP	모험도: 시작
+**Testing**	WTME	모험도
+**Testing**	CEPE	Age of Empires - Mythologies
+**Full support**	WE9E	에일리언 크러쉬 리턴즈	WE9J	에일리언 크러쉬 리턴즈
+**Full support**	WE9P	에일리언 크러쉬 리턴즈
+**Full support**	YAFP	AMF Bowling Pinbusters!
+**Full support**	YAFE	AMF Bowling Pinbusters!
+**Full support**	ADME	Animal Crossing - Wild World	ADMK	놀러오세요 동물의 숲	ADMP	Animal Crossing - Wild World
+**Full support**\nRegion-locked; will not work out of Japan due to discrepancies.	ADMJ	Oide yo Doubutsu no Mori
+**Full support**	RUUE01	타운으로 놀러가요 동물의 숲	RUUJ01	타운으로 놀러가요 동물의 숲	RUUK01	타운으로 놀러가요 동물의 숲	RUUP01	타운으로 놀러가요 동물의 숲
+**Testing**	YAAJ	Arkanoid DS
+**Testing**\nRankings supported.	YAAE	Arkanoid DS	YAAP	Arkanoid DS
+**Testing**	A8PJ	Atama o Kitaete Asobu Taisen Yajirushi Puzzle - Puppynu Vector One
+**Testing**	APXJ	Atsumare! Power Pro Kun no DS Koushien
+**Testing**	YOGJ	Avalon Code
+**Testing**	AUWJ	Banushi Life Game - Winner's Circle
+**Testing**	RXPJJF	배스 낚시 Wii - 로쿠마루 전설
+**Full support**	RBWE01	돌격!! 패미컴 대전 2	RBWJ01	돌격!! 패미컴 대전 vs.	RBWP01	돌격!! 패미컴 대전 2
+**Full support**	WJWE	비쥬얼드 2	WJWP	비쥬얼드 2
+**Testing**	RXPPGT	빅 캐치 배스 낚시
+**Testing**	SBDJ08	바이오하자드: 암흑 연대기
+**Testing**	SBDK08	바이오 하자드: 다크사이드 크로니클즈
+**Testing**	SVTP99	비트 트립 컴플리트
+**Testing**	SVTEXS	비트 트립 컴플리트
+**Testing**	CVZJ	Blazer Drive
+**Testing**	RBXJ8P	블리치: vs. 크루세이드
+**Testing**	ABZJ	Bleach DS 2nd - Kokui Hirameku Requiem
+**Testing**	ABZP	Bleach - Dark Souls
+**Testing**	ABZE	Bleach - Dark Souls
+**Testing**	ABLJ	Bleach DS - Souten ni Kakeru Unmei
+**Testing**	ABLP	Bleach - The Blade of Fate
+**Testing**	ABLE	Bleach - The Blade of Fate
+**Testing**	RP4J13	나와 심의 거리 파티
+**Testing**	CB9J	Bokujou Monogatari - Youkoso! Kaze no Bazaar e
+**Full support**	YBAJ	Custom Battler Bomber Man	YBAP	Bomberman 2
+**Full support**	RB6J18	봄버맨
+**Full support**	KBBE	Bomberman Blitz	KBBV	Bomberman Blitz
+**Full support**	ABXE	Bomberman Land Touch!	ABXJ	Touch! Bomber Man Land	ABXP	Bomberman Land Touch!
+**Full support**	ABXK	터치! 봄버맨랜드
+**Testing**	YB2J	Touch! Bomber Man Land - Star Bomber no Miracle World
+**Testing**	YB2P	Bomberman Land Touch! 2
+**Testing**	YB2E	Bomberman Land Touch! 2
+**Full support**	WBLJ	버블 보블 Wii
+**Full support**	WBLP	버블 보블 플러스!
+**Full support**	WBLE	버블 보블 플러스!
+**Full support**	RK2JEB	트라우마 센터: 새로운 피
+**Full support**\nGame is region-locked.	BDYE	Call of Duty - Black Ops	BDYY	Call of Duty - Black Ops
+**Full support**\nGame is region-locked.	BDYD	Call of Duty - Black Ops	BDYF	Call of Duty - Black Ops	BDYP	Call of Duty - Black Ops
+**Full support**\nGame is region-locked.	C62D	Call of Duty - Modern Warfare - Mobilized	C62F	Call of Duty - Modern Warfare - Mobilized	C62I	Call of Duty - Modern Warfare - Mobilized	C62P	Call of Duty - Modern Warfare - Mobilized	C62S	Call of Duty - Modern Warfare - Mobilized
+**Full support**\nGame is region-locked.	C62E	Call of Duty - Modern Warfare - Mobilized
+**Working except online statistics**\nCall of Duty ranking servers are not supported by Wiimmfi.	CALK	콜 오브 듀티 - 월드 앳 워
+**Working except online statistics**\nCall of Duty ranking servers are not supported by Wiimmfi.	CALP	Call of Duty - World at War
+**Working except online statistics**\nCall of Duty ranking servers are not supported by Wiimmfi.	CALE	Call of Duty - World at War
+**Testing**	WCRE	축제 왕
+**Testing**	RDGEA4	캐슬베니아 저지먼트	RDGJA4	악마성 드라큘라 저지먼트	RDGPA4	캐슬베니아 저지먼트
+**Testing**	ACBJ	Akumajou Dracula - Gallery of Labyrinth
+**Testing**	ACBE	Castlevania - Portrait of Ruin
+**Full support**	WCHE	체스 도전!	WCHP	체스 도전
+**Testing**	BCLJ	Clash King V201
+**Full support**	ATDE	Clubhouse Games	ATDJ	Wi-Fi Taiou - Sekai no Daredemo Asobi Taizen	ATDP	42 All-Time Classics
+**Testing**\nGame doesn't work for unknown reasons.	R59D4Q	클럽 펭귄: 게임 데이!	R59P4Q	클럽 펭귄: 게임 데이!
+**Testing**\nGame doesn't work for unknown reasons.	R59E4Q	클럽 펭귄: 게임 데이!
+**Testing**	CY9P	Club Penguin - EPF - Herbert's Revenge
+**Testing**	CY9E	Club Penguin - EPF - Herbert's Revenge
+**Testing**	ACOJ	Contact
+**Testing**	ACOP	Contact
+**Testing**	ACOE	Contact
+**Full support**	AK3P	Cookie & Cream
+**Full support**	WCIJ	크리스탈 디펜더즈 R1
+**Full support**	WCIP	크리스탈 디펜더즈 R1
+**Full support**	WCIE	크리스탈 디펜더즈 R1
+**Full support**	WC2J	크리스탈 디펜더스 R2
+**Full support**	WC2P	크리스탈 디펜더스 R2
+**Full support**	WC2E	크리스탈 디펜더스 R2
+**Full support**	WCSE	큐스포츠: 당구 레볼루션	WCSJ	큐 스포츠: Wi-Fi 대전 당구	WCSP	큐 스포츠: 스누커 vs 당구
+**Testing**	ACLP	Custom Robo Arena
+**Testing**	ACLE	Custom Robo Arena
+**Testing**	R82JG0	다츠 Wii DX
+**Testing**	CIEE	Dawn of Heroes
+**Partially working**\nFriend games work, rankings and random games do not.	R2SE18	데카 스포츠 2
+**Full support**	S3DJ18	데카 스포르타 3
+**Full support**	S3DP18	스포츠 아일랜드 3
+**Full support**	S3DE18	데카 스포츠 3
+**Testing**	W4KE	디어 캡터
+**Full support**	WDBJ	더비 도그
+**Full support**	WDBE	더비 도그스
+**Testing**	AUMJ	Derby Stallion DS
+**Full support**	YGDE	Diary Girl
+**Full support**	AWDE	Diddy Kong Racing DS
+**Full support**	YDIJ	Digimon Championship
+**Full support**	YDIK	디지몬 챔피언십
+**Full support**	YDIE	Digimon World Championship
+**Full support**	ADNJ	Digimon Story
+**Full support**	A3VJ	Digimon Story - Sunburst
+**Full support**	A3VE	Digimon World - Dawn
+**Full support**	ADNE	Digimon World DS
+**Testing**	WDDJ	디너 대쉬
+**Testing**	WDDP	디너 대쉬
+**Testing**	WDDE	디너 대쉬
+**Testing**	A6KP	Dinosaur King
+**Testing**	A6KE	Dinosaur King
+**Testing**	AXVJ	Disney Friends
+**Testing**	AXVD	Disney Friends	AXVF	Mes Amis Disney	AXVI	Disney Friends	AXVP	Disney Friends	AXVS	Tus Amigos de Disney
+**Testing**	AXVE	Disney Friends
+**Testing**	AX7J	Doraemon - Nobita no Shin Makai Daibouken DS
+**Full support**	WDME	Dr. 마리오 온라인 Rx	WDMJ	Dr. 마리오 & 세균 박멸	WDMP	Dr. 마리오 & 세균 박멸
+**Testing**	WIDP	드라큘라: 언데드 각성
+**Testing**	WIDE	드라큘라: 언데드 각성
+**Testing**	AD9J	Custom Beat Battle - Draglade
+**Testing**	AD9P	Draglade
+**Testing**	AD9E	Draglade
+**Testing**	RDSJAF	드래곤 볼 Z: 스파킹! 메테오
+**Full support**\nGame is region-locked.	RDSPAF	드래곤 볼 Z: 격투 천하제일 무도회 3
+**Full support**\nGame is region-locked.	RDSE70	드래곤 볼 Z: 격투 천하제일 무도회 3
+**Full support**	YDQJ	Dragon Quest IX - Hoshizora no Mamoribito
+**Full support**	YDQP	Dragon Quest IX - Sentinels of the Starry Skies
+**Full support**	YDQE	Dragon Quest IX - Sentinels of the Starry Skies
+**Testing**	AJRJ	Dragon Quest Monsters - Joker
+**Testing**	AJRP	Dragon Quest Monsters - Joker
+**Testing**	AJRE	Dragon Quest Monsters - Joker
+**Testing**	SBAJGD	드래곤 퀘스트 몬스터즈: 배틀 로드 빅토리
+**Testing**	CJRE	Dragon Quest Monsters - Joker 2	CJRJ	Dragon Quest Monsters - Joker 2	CJRP	Dragon Quest Monsters - Joker 2
+**Full support**	KDQE	Dragon Quest Wars	KDQV	Dragon Quest Wars
+**Testing**	AR3J	Dragon Zakura DS
+**Testing**	YZ2J	DS Puzzler - Nanpure Fan & Oekaki Logic - Wi-Fi Taiou
+**Full support**	YDHE	Ducati Moto	YDHP	Ducati Moto
+**Testing**	AXJP	Dungeon Explorer
+**Testing**	AXJJ	Dungeon Explorer - Jashin no Ryouiki
+**Testing**	AXJE	Dungeon Explorer - Warriors of Ancient Arts
+**Testing**	AEMJ	Elemental Monster - Itsu Hashira Gami no Nazo
+**Full support**	YNNE	Magician's Quest - Mysterious Times	YNNJ	Tongari Boushi to Mahou no 365-nichi	YNNP	Enchanted Folk and the School of Wizardry
+**Full support**\nGame is region-locked.	RFBJ01	끝없는 바다
+**Full support**\nGame is region-locked.	RFBP01	끝없는 바다
+**Full support**\nGame is region-locked.	RFBE01	끝없는 바다
+**Full support**	R4EJ01	끝없는 바다 - 바다가 부르는 소리
+**Full support**	R4EP01	끝없는 바다 2: 바다가 부르는 소리
+**Full support**	R4EE01	끝없는 바다: 푸른 세계
+**Testing**	W9IJ	위험 공역
+**Full support**	WWRJ	익사이트바이크: 월드 레이스
+**Full support**	WWRE	익사이트바이크: 월드 랠리
+**Full support**	RX3E01	익사이트보츠: 트릭 레이싱	RX3J01	익사이트: 사나운 경주용 자동차
+**Testing**	WF5P	패밀리 카드 게임즈
+**Testing**	WF5E	패밀리 카드 게임즈
+**Testing**	WPTJ	환상 큐브
+**Testing**	YF8K	FIFA 08
+**Testing**	YF8P	FIFA 08
+**Testing**	YF8E	FIFA Soccer 08
+**Testing**	CF9K	FIFA 09
+**Testing**	CF9P	FIFA 09
+**Testing**	CF9E	FIFA Soccer 09
+**Working with some issues**\nFriend messages don't work. Reboot DS before reconnect.	CFIE	Final Fantasy Crystal Chronicles - Echoes of Time	CFIJ	Final Fantasy Crystal Chronicles - Echoes of Time	CFIP	Final Fantasy Crystal Chronicles - Echoes of Time
+**Testing**	R7FJGD	초코보의 이상한 던전: 시간을 잇는 미궁
+**Testing**	R7FPGD	파이날 판타지 우화집: 초코보의 던전
+**Testing**	R7FEGD	파이널 판타지 우화집: 초코보의 던전
+**Testing**	R7FEUD	파이널 판타지 우화집: 초코보의 던전 (언덥)
+**Testing**	AFFJ	Final Fantasy III
+**Testing**	AFFP	Final Fantasy III
+**Testing**	AFFE	Final Fantasy III
+**Full support**	YFEJ	Fire Emblem - Shin Ankoku Ryuu to Hikari no Ken
+**Full support**	YFEE	Fire Emblem - Shadow Dragon	YFEP	Fire Emblem - Shadow Dragon
+**Testing**	VI2J	Fire Emblem - Shin Monshou no Nazo - Hikari to Kage no Eiyuu
+**Testing**	VI2J	Fire Emblem - Shin Monshou no Nazo - Hikari to Kage no Eiyuu
+**Testing**	VI2J	Fire Emblem - Shin Monshou no Nazo - Hikari to Kage no Eiyuu
+**Testing**	VI2J	Fire Emblem - Shin Monshou no Nazo - Hikari to Kage no Eiyuu
+**Testing**	RTLE18	낚시 마스터: 월드 투어
+**Testing**	S22JAF	패밀리 피싱
+**Testing**	S22K01	패밀리 피싱
+**Full support**	ST7E01	포춘 스트리트	ST7P01	붐 스트리트
+**Full support**	ST7JGD	이타다키 스트리트
+**Partially working**\nTeam Plaza and Bonus Data do not work. Game is region locked.	VDEE	Fossil Fighters Champions
+**Testing**	AL9E	Fullmetal Alchemist - Trading Card Game
+**Testing**	AFUJ	Fushigi no Dungeon - Fuurai no Shiren DS
+**Testing**	YWFJ	Fushigi no Dungeon - Fuurai no Shiren DS 2 - Sabaku no Majou
+**Testing**	RFSJ8P	이상한 던전 풍래의 시렌 3 - 태엽장치 저택의 잠자는 공주
+**Testing**	YGNE	Gauntlet	YGNP	Gauntlet
+**Testing**	ACLJ	Gekitou! Custom Robo
+**Full support**	YGLP	Geometry Wars - Galaxies
+**Full support**	RGLP7D	지오메트리 대전: 은하계
+**Full support**	RGLE7D	지오메트리 대전: 은하계
+**Full support**	YGLE	Geometry Wars - Galaxies
+**Testing**	RGSJ8P	고스트 스쿼드
+**Testing**	RGSP8P	고스트 스쿼드
+**Testing**	RGSE8P	고스트 스쿼드
+**Full support**	WGDJ	그라디우스 리버스: 업데이티드
+**Full support**	WGDP	그라디우스 리버스
+**Full support**	WGDE	그라디우스 리버스
+**Testing**	YGXJ	Grand Theft Auto - Chinatown Wars
+**Testing**	YGXP	Grand Theft Auto - Chinatown Wars
+**Testing**	YGXE	Grand Theft Auto - Chinatown Wars
+**Full support**	SGBPGT	그렉 헤이스팅스 페인트볼 2
+**Full support**	SGBE5G	그렉 헤이스팅스 페인트볼 2
+**Full support**	YG6E	Grid
+**Full support**	SGIEA4	GTI 클럽 슈퍼미니 페스타!	SGIJA4	GTI 클럽 월드 시티 레이스	SGIPA4	GTI 클럽 슈퍼미니 페스타!
+**Full support**	SGI1CL	싱잇 Clásicos
+**Full support**	SGI1DB	싱 잇: 애니메이션
+**Full support**	SGI1MC	싱잇스타 메카노
+**Full support**	SGI1ML	싱 잇 스타: Miliki
+**Full support**	SGI1PT	싱 잇: 파티
+**Full support**	SGI1RC	싱 잇: 락스 2
+**Testing**	CGNP	Guinness World Records - The Videogame
+**Testing**	CGNE	Guinness World Records - The Videogame
+**Testing**	RG5PWR	기네스 세계 기록: 비디오게임
+**Testing**	RG5EWR	기네스 세계 기록: 비디오게임
+**Testing**	SXBE52	기타 히어로: 메탈리카	SXBP52	기타 히어로: 메탈리카
+**Testing**	SXCE52	기타 히어로: 스매쉬 히츠
+**Testing**	SXDE52	기타 히어로: 반 헤일렌
+**Working with some issues**\nFriendlist only loads while being empty. Matchmaking works fine.	SXAE52	기타 히어로: 월드 투어	SXAP52	기타 히어로: 월드 투어
+**Testing**	RGHE52	기타 히어로 III: 락의 전설들	RGHJ52	기타 히어로 III: 락의 전설들	RGHK52	기타 히어로 3: 락의 전설들	RGHP52	기타 히어로 III: 락의 전설들	RGHI52	기타 히어로 III 커스텀: 침바	RGHX52	기타 히어로 III 커스텀: 아니메의 알렉스 짱
+**Testing**	RGHC20	기타 히어로 III 커스텀: 페일 에디션
+**Testing**	RGHC53	기타 히어로 III 뮤즈
+**Testing**	RGHE18	기타 히어로 2k18
+**Testing**	RGHE51	기타 히어로 III 커스텀: 아스페로
+**Testing**	RGHE60	기타 히어로 III 커스텀: WTF 커스텀
+**Testing**	RGHE61	기타 히어로 3: 나는 법과 싸웠었어
+**Testing**	RGHE62	기타 히어로 3: 스윗 홈 앨라배마주
+**Testing**	RGHE69	기타 히어로 III 커스텀: 메탈의 전설들
+**Testing**	RGHEMR	기타 히어로 III 커스텀: 모던 락
+**Testing**	RGHPOH	싱잇스타 이탈리아 그레이티스트 히츠
+**Testing**	RGHPS2	기타 히어로 III 커스텀: J-뮤직
+**Testing**	RGVJ52	기타 히어로: 에어로스미스
+**Testing**	RGVP52	기타 히어로: 에어로스미스
+**Testing**	RGVE52	기타 히어로: 에어로스미스
+**Testing**	RGVE99	기타 히어로 에어로스미스 커스텀: 에어로스미스는 아니지만...
+**Testing**	SQDP8P	건블레이드 NY & LA 머신건: 아케이드 히트 팩
+**Testing**	SQDE8P	건블레이드 NY & LA 머신건: 아케이드 히트 팩
+**Testing**	A6ZJ	Kidou Gekidan Haro Ichiza - Gundam Mahjong +Z - Sarani Dekiru You ni Natta Na!
+**Testing**	WT8J	튕겨라! 블록 러쉬
+**Testing**	WM9E	해피 해머린
+**Testing**	WM9P	해피 해머린
+**Testing**	CB9P	Harvest Moon DS - Grand Bazaar
+**Testing**	CB9E	Harvest Moon DS - Grand Bazaar
+**Testing**	YKBE	Heavy Armor Brigade
+**Testing**	WHVE	고전압 : 핫 로드 쇼
+**Testing**	WFPJ	번뜩이는 카드 배틀 메쿠루카
+**Testing**	BSLJ	Hirameki Puzzle - Maxwell no Fushigi na Note
+**Testing**	RXNJJF	배스 낚시 Wii 월드 토너먼트
+**Testing**	RXNPGT	빅 캐치 배스 낚시 2
+**Testing**	RXNEXS	다시 낚았다: 리얼 모션 낚시
+**Testing**	RXPEXS	낚았다!: 리얼 모션 낚시
+**Testing**	WHWE	후프월드
+**Testing**	WHWP	후프월드: 바스켓 대난투
+**Full support**\nRankings not supported.	S5SJHF	이나즈마 일레븐 Go 스트라이커즈 2013
+**Testing**	YA8P	International Athletics
+**Testing**	AEEJ	Itadaki Street DS - Dragon Quest Super Mario
+**Testing**	CW4J	Item Getter - Bokura no Kagaku to Mahou no Kankei
+**Testing**	UXBP	Jam with the Band
+**Testing**	WJPJ	가위-바위-보 파티 파라다이스
+**Testing**	AWGJ	Jet Impulse
+**Testing**	RH7J8P	실전 파치슬롯 필승법! 사미의 컬렉션 북두의 권 Wii
+**Testing**	AJUJ	Jump Ultimate Stars
+**Full support**	VJTP	Just Sing!
+**Full support**	VJTE	Just Sing
+**Testing**	AFMJ	Kaite, Shabette, Hajimeyou! - Monster Farm DS
+**Testing**	S3SJ18	카라오케 조이사운드 Wii 슈퍼 DX: 혼자서 모든 노래를 마음껏!
+**Testing**	RE8J99	가정교사 히트맨 부활! 금단의 어둠의 델타
+**Testing**	VHRJ	Katekyoo Hitman Reborn! DS - Ore ga Boss! - Saikyou Family Taisen
+**Testing**	ANYJ	Kawa no Nushi Tsuri - Komorebi no Tani, Seseragi no Uta
+**Testing**	A6KJ	Kodai Ouja Kyouryuu King - 7-tsu no Kakera
+**Testing**	AQTE	Konductra
+**Full support**\nDeluxe version seems to use same online configuration.	WMPJ	말의 퍼즐 모지핏탄 Wii
+**Testing**	AVTJ	Kou Rate Ura Mahjong Retsuden - Mukoubuchi - Goburei, Last Desu ne
+**Testing**	YCHJ	Kousoku Card Battle - Card Hero
+**Testing**	YNVJ	Kunitori Zunou Battle - Nobunaga no Yabou
+**Full support**	AK3J	Kurikuri DS - Otasuke Island
+**Testing**	WLPJ	론포스
+**Testing**	WLPP	론포스
+**Testing**	WLPE	론포스
+**Testing**	AM9J	LostMagic
+**Testing**	AM9P	LostMagic
+**Testing**	AM9E	LostMagic
+**Testing**	ANIJ	Luminous Arc
+**Testing**	ANIP	Luminous Arc
+**Testing**	ANIE	Luminous Arc
+**Testing**	YL2P	Luminous Arc 2
+**Testing**	YL2E	Luminous Arc 2
+**Testing**	YL2J	Luminous Arc 2 - Will
+**Testing**	BLUJ	Luminous Arc 3 - Eyes
+**Full support**	A5UP	Madden NFL 08
+**Full support**	A5UE	Madden NFL 08
+**Testing**	AC5J	Mahjong Fight Club DS - Wi-Fi Taiou
+**Testing**	YLBE	Major League Baseball 2K8 - Fantasy All-Stars
+**Testing**	CMLE	Major League Baseball 2K9 - Fantasy All-Stars
+**Full support**	WMLE	메이저 리그 이팅: 게임
+**Full support**	WM3E	메닉 멍키 메이햄
+**Full support**	RK6E18	구슬 이야기: 코로린파
+**Full support**	SIIE8P	마리오와 소닉 런던 올림픽	SIIP8P	마리오와 소닉 런던 올림픽
+**Full support**	SIIJ01	마리오와 소닉 런던 올림픽	SIIK01	마리오와 소닉 런던 올림픽
+**Full support**	AY9J	Mario & Sonic at Beijing Olympic	AY9K	마리오와 소닉 - 베이징 올림픽
+**Full support**	AY9J	Mario & Sonic at Beijing Olympic	AY9K	마리오와 소닉 - 베이징 올림픽
+**Full support**	AY9P	Mario & Sonic at the Olympic Games
+**Full support**	AY9E	Mario & Sonic at the Olympic Games
+**Full support**	RWSE8P	마리오와 소닉 베이징 올림픽	RWSP8P	마리오와 소닉 베이징 올림픽
+**Full support**	RWSJ01	마리오와 소닉 베이징 올림픽	RWSK01	마리오와 소닉 베이징 올림픽
+**Full support**	COLJ	Mario & Sonic at Vancouver Olympic	COLK	마리오와 소닉 - 밴쿠버 동계올림픽
+**Full support**	COLJ	Mario & Sonic at Vancouver Olympic	COLK	마리오와 소닉 - 밴쿠버 동계올림픽
+**Full support**	COLP	Mario & Sonic at the Olympic Winter Games
+**Full support**	COLE	Mario & Sonic at the Olympic Winter Games
+**Full support**	ROLE8P	마리오와 소닉 밴쿠버 동계 올림픽	ROLP8P	마리오와 소닉 밴쿠버 동계 올림픽
+**Full support**	ROLJ01	마리오와 소닉 밴쿠버 동계 올림픽	ROLK01	마리오와 소닉 밴쿠버 동계올림픽
+**Full support**	AMCE	Mario Kart DS	AMCJ	Mario Kart DS	AMCK	마리오 카트 DS	AMCP	Mario Kart DS
+**Full support**	RMCE01	 마리오 카트 Wii	RMCJ01	마리오 카트 Wii	RMCK01	마리오 카트 Wii	RMCP01	마리오 카트 Wii	RMCC01	마리오 카트 Wii (커스텀)
+**Full support**	RMCE02	Wiimms 마리오 카트 Wii 펀 2010-02.PAL	RMCP02	Wiimms 마리오 카트 Wii 펀 2010-02.유럽
+**Full support**	RMCE03	Wiimms 마리오 카트 Wii 펀 2010-10.PAL	RMCP03	Wiimms 마리오 카트 Wii 펀 2010-10.유럽
+**Full support**	RMCE04	Wiimms 마리오 카트 Wii 펀 2010-12.PAL	RMCP04	Wiimms 마리오 카트 Wii 펀 2010-12.유럽
+**Full support**	RMCE05	Wiimms 마리오 카트 Wii 펀 2010-12.PAL	RMCP05	커스텀 마리오 카트 Wii
+**Full support**	RMCE06	Wiimms 마리오 카트 Wii 펀 2010-12.NTSC	RMCP06	Wiimms 마리오 카트 Wii 펀 2010-12.유럽
+**Full support**	RMCE07	Wiimms 마리오 카트 Wii 레트로 2011-02.NTSC	RMCP07	Wiimms 마리오 카트 Wii 펀 2011-02.유럽
+**Full support**	RMCE08	Wiimms 마리오 카트 Wii 펀 2011-03.NTSC	RMCP08	Wiimms 마리오 카트 Wii 펀 2011-03.유럽
+**Full support**	RMCE09	Wiimms 마리오 카트 Wii 펀 2011-06.NTSC	RMCP09	Wiimms 마리오 카트 Wii 펀 2011-06.유럽
+**Full support**	RMCE10	Wiimms 마리오 카트 Wii 펀 2011-07.NTSC	RMCP10	Wiimms 마리오 카트 Wii 펀 2011-07.유럽
+**Full support**	RMCE11	Wiimms 마리오 카트 Wii 펀 2011-08.NTSC	RMCP11	Wiimms 마리오 카트 Wii 펀 2011-08.유럽
+**Full support**	RMCE12	Wiimms 마리오 카트 Wii 펀 2011-11.NTSC	RMCJ12	Wiimms 마리오 카트 Wii 펀 2011-11.일본	RMCP12	Wiimms 마리오 카트 Wii 펀 2011-11.유럽
+**Full support**	RMCE13	Wiimms 마리오 카트 Wii 펀 2012-01.NTSC	RMCP13	Wiimms 마리오 카트 Wii 펀 2012-01.유럽
+**Full support**	RMCE14	Wiimms 마리오 카트 Wii 리바이벌 2012-02.NTSC	RMCP14	Wiimms 마리오 카트 Wii 리바이벌 2012-02.유럽
+**Full support**	RMCE15	Wiimms 마리오 카트 Wii 부스트 2012-03.NTSC	RMCP15	Wiimms 마리오 카트 Wii 부스트 2012-03.유럽
+**Full support**	RMCE16	Wiimms 마리오 카트 Wii 펀 2012-05.NTSC	RMCP16	Wiimms 마리오 카트 Wii 펀 2012-05.유럽
+**Full support**	RMCE17	Wiimms 마리오 카트 Wii 펀 2012-09.NTSC	RMCP17	Wiimms 마리오 카트 Wii 펀 2012-09.유럽
+**Full support**	RMCE18	Wiimms 마리오 카트 Wii N64 2012-10.NTSC	RMCP18	Wiimms 마리오 카트 Wii 펀 N64 2012-10.유럽
+**Full support**	RMCE19	Wiimms 마리오 카트 Wii 펀 2012-12.NTSC	RMCP19	Wiimms 마리오 카트 Wii 펀 2012-12.유럽
+**Full support**	RMCE20	Wiimms 마리오 카트 Wii 펀 2013-04.NTSC	RMCP20	Wiimms 마리오 카트 Wii 펀 2013-04.유럽
+**Full support**	RMCE21	Wiimms 마리오 카트 Wii 펀 2013-09.NTSC	RMCP21	Wiimms 마리오 카트 Wii 펀 2013-09.유럽
+**Full support**	RMCE22	Wiimms 마리오 카트 Wii 펀 2013-10.NTSC	RMCP22	Wiimms 마리오 카트 Wii 펀 2013-10.유럽
+**Full support**	RMCE23	Wiimms 마리오 카트 Wii 펀 2014-01.NTSC	RMCP23	Wiimms 마리오 카트 Wii 펀 2014-01.유럽
+**Full support**	RMCE24	Wiimms 마리오 카트 Wii 레트로 2014-02.NTSC	RMCP24	Wiimms 마리오 카트 Wii 레트로 2014-02.유럽
+**Full support**	RMCE25	Wiimms 마리오 카트 Wii 펀 2014-04.NTSC	RMCP25	Wiimms 마리오 카트 Wii 펀 2014-04.유럽
+**Full support**	RMCE26	Wiimms 마리오 카트 Wii 펀 2014-11.NTSC	RMCP26	Wiimms 마리오 카트 Wii 펀 2014-11.유럽
+**Full support**	RMCE27	Wiimms 마리오 카트 Wii 펀 2015-03.NTSC	RMCP27	Wiimms 마리오 카트 Wii 펀 2015-03.유럽
+**Full support**	RMCE28	Wiimms 마리오 카트 Wii 레트로 2015-05.NTSC	RMCP28	Wiimms 마리오 카트 Wii 레트로 2015-05.유럽
+**Full support**	RMCE29	Wiimms 마리오 카트 Wii 펀 2015-08.NTSC	RMCP29	Wiimms 마리오 카트 Wii 펀 2015-08.유럽
+**Full support**	RMCE30	Wiimms 마리오 카트 Wii 펀 2015-12.NTSC	RMCJ30	Wiimms 마리오 카트 Wii 펀 2015-12.일본	RMCP30	Wiimms 마리오 카트 Wii 펀 2015-12.유럽
+**Full support**	RMCE31	Wiimms 마리오 카트 Wii 펀 2016-02.NTSC	RMCJ31	Wiimms 마리오 카트 Wii 펀 2016-02.일본	RMCP31	Wiimms 마리오 카트 Wii 펀 2016-02.유럽
+**Full support**	RMCE32	Wiimms 마리오 카트 Wii 펀 2016-07.NTSC	RMCJ32	Wiimms 마리오 카트 Wii 펀 2016-07.일본	RMCP32	Wiimms 마리오 카트 Wii 펀 2016-07.유럽
+**Full support**	RMCE33	Wiimms 마리오 카트 Wii 펀 2016-10.미국	RMCJ33	Wiimms 마리오 카트 Wii 펀 2016-10.일본	RMCP33	Wiimms 마리오 카트 Wii 펀 2016-10.유럽
+**Full support**	RMCE34	Wiimms 마리오 카트 Wii 펀 2017-05.미국	RMCJ34	Wiimms 마리오 카트 Wii 펀 2017-05.일본	RMCP34	Wiimms 마리오 카트 Wii 펀 2017-05.유럽
+**Full support**	RMCE35	Wiimms 마리오 카트 Wii 펀 2017-12.미국	RMCJ35	Wiimms 마리오 카트 Wii 펀 2017-12.일본	RMCP35	Wiimms 마리오 카트 Wii 펀 2017-12.유럽
+**Full support**	RMCE36	Wiimms 마리오 카트 Wii 펀 2018-03.미국	RMCJ36	Wiimms 마리오 카트 Wii 펀 2018-03.일본	RMCP36	Wiimms 마리오 카트 Wii 펀 2018-03.유럽
+**Full support**	RMCE37	Wiimms 마리오 카트 Wii 펀 2018-06.미국	RMCJ37	Wiimms 마리오 카트 Wii 펀 2018-06.일본	RMCP37	Wiimms 마리오 카트 Wii 펀 2018-06.유럽
+**Full support**	RMCE38	Wiimms 마리오 카트 Wii 펀 2018-09.미국	RMCJ38	Wiimms 마리오 카트 Wii 펀 2018-09.일본	RMCP38	Wiimms 마리오 카트 Wii 펀 2018-09.유럽
+**Full support**	RMCE3H	3Hunts의 커스텀 트랙 팩
+**Full support**	RMCE40	Wiimms 마리오 카트 Wii 펀 2019-03.미국	RMCJ40	Wiimms 마리오 카트 Wii 펀 2019-03.일본	RMCP40	Wiimms 마리오 카트 Wii 펀 2019-03.유럽
+**Full support**	RMCE41	Wiimms 마리오 카트 Wii 펀 2019-06.미국	RMCJ41	Wiimms 마리오 카트 Wii 펀 2019-06.일본	RMCK41	Wiimms 마리오 카트 Wii 펀 2019-06.한국	RMCP41	Wiimms 마리오 카트 Wii 펀 2019-06.유럽
+**Full support**	RMCE42	Wiimms 마리오 카트 Wii 펀 2019-10.미국	RMCJ42	Wiimms 마리오 카트 Wii 펀 2019-10.일본	RMCK42	Wiimms 마리오 카트 Wii 펀 2019-10.한국	RMCP42	Wiimms 마리오 카트 Wii 펀 2019-10.유럽
+**Full support**	RMCE43	Wiimms 마리오 카트 Wii 펀 2020-02.미국	RMCJ43	Wiimms 마리오 카트 Wii 펀 2020-02.일본	RMCK43	Wiimms 마리오 카트 Wii 펀 2020-02.한국	RMCP43	Wiimms 마리오 카트 Wii 펀 2020-02.유럽
+**Full support**	RMCE44	Wiimms 마리오 카트 Wii 펀 2020-06.미국	RMCJ44	Wiimms 마리오 카트 Wii 펀 2020-06.일본	RMCK44	Wiimms 마리오 카트 Wii 펀 2020-06.한국	RMCP44	Wiimms 마리오 카트 Wii 펀 2020-06.유럽
+**Full support**	RMCE54	마리오 카트 크리스 디럭스 2
+**Full support**	RMCE64	피치 카트 8	RMCJ64	피치 카트 8	RMCP64	피치 카트 8
+**Full support**	RMCE69	크리아 카트 Wii
+**Full support**	RMCE70	스틱보이 카트 Wii
+**Full support**	RMCE73	마리오 카트 어드벤처즈
+**Full support**	RMCE74	마리오 카트 어드벤처즈
+**Full support**	RMCE75	캠, 톰, 트로이의 CTGP 팩
+**Full support**	RMCE76	프로 CT 팩	RMCJ76	프로 CT 팩	RMCP76	프로 CT 팩
+**Full support**	RMCE77	Spy Kid의 CT 팩
+**Full support**	RMCE78	마리오 카트: 더블 대쉬!! Wii
+**Full support**	RMCE7T	큐버의 핵 팩
+**Full support**	RMCE81	Spade의 커스텀 트랙 팩
+**Full support**	RMCE86	마리오 카트 크리스 3.500 CT	RMCJ86	마리오 카트 크리스 3.500 CT	RMCK86	마리오 카트 크리스 3.5 캐럿	RMCP86	마리오 카트 크리스 3.500CT
+**Full support**	RMCE88	마리오 카트 크리스 디럭스 3.0
+**Full support**	RMCE89	마리오 카트 크리스 쿠인
+**Full support**	RMCE8X	마리오 카트 Wii X DS
+**Full support**	RMCE92	마리오 카트 WiiLH100의 커스텀 트랙 팩
+**Full support**	RMCE93	마리오 카트 Wii 핵 팩	RMCJ93	마리오 카트 Wii 핵 팩	RMCP93	마리오 카트 Wii 핵 팩
+**Full support**	RMCE96	마리오 카트 6
+**Full support**	RMCE98	마리오 카트 Wii 어썸네스
+**Full support**	RMCE9R	루키의 텍스처와 음악 팩
+**Full support**	RMCEA1	마리오 카트 어드벤처	RMCJA1	마리오 카트 어드벤처즈 v0.8	RMCPA1	마리오 카트 어드벤처
+**Full support**	RMCEA5	알파의 트랙 믹스
+**Full support**	RMCEA8	마리오 카트 아케이드 JY
+**Full support**	RMCEA9	마리오 카트 Wii - 더 탑 100
+**Full support**	RMCEB1	마리오 카트 Wii 2017
+**Full support**	RMCEB2	마리오 카트 Wii 2017 - 버전 2.0
+**Full support**	RMCEB4	마리오 카트 Wii 디럭스
+**Full support**	RMCEB6	마리오 카트 7 JY
+**Full support**	RMCEB8	마리오 카트 매니아
+**Full support**	RMCEC7	코스믹 카트
+**Full support**	RMCECH	크리스 카트 Wii 
+**Full support**	RMCECT	마리오 카트 Wii CTGP 레볼루션	RMCJCT	마리오 카트 Wii CTGP 레볼루션
+**Full support**	RMCECY	CTGP 클래식 팩
+**Full support**	RMCED3	드라이쿠파 카트 Wii
+**Full support**	RMCEDK	다키 카트 Wii
+**Full support**	RMCEF1	팬시의 CT 팩
+**Full support**	RMCEFE	팬시의 CT 팩 - 엑스트라 에디션
+**Full support**	RMCEG2	마리오 카트 Wii CTGP 레볼루션	RMCPG2	마리오 카트 Wii CTGP 레볼루션
+**Full support**	RMCEG4	Diddz' 갱 커스텀 트랙 팩
+**Full support**	RMCEG5	뉴 마리오 카트 Wii 64
+**Full support**	RMCEGP	마리오 카트 Wii CTGP 레볼루션	RMCPGP	마리오 카트 CTGP 레볼루션
+**Full support**	RMCEH8	HD의 레트로 팩
+**Full support**	RMCEJ6	JHFR CT 팩
+**Full support**	RMCEL1	Luma의 CT 팩	RMCJL1	Luma의 CT 팩	RMCPL1	Luma의 CT 팩
+**Full support**	RMCEL9	마리오 카트 레가시
+**Full support**	RMCELG	레거시 카트 Wii
+**Full support**	RMCEM4	마리오 카트 슈퍼 서킷 Wii
+**Full support**	RMCEM6	뉴 마리오 카트 7
+**Full support**	RMCEM9	뉴 마리오 카트: 더블 대쉬!!
+**Full support**	RMCEMZ	미지의 텍스처 팩
+**Full support**	RMCEO4	옵트팩 CT 팩
+**Full support**	RMCEPG	펭귄 카트 Wii
+**Full support**	RMCER9	로사 카트 Wii
+**Full support**	RMCERB	베어 카트 Wii
+**Full support**	RMCEST	Skipper의 200Kmh 디스트리뷰션
+**Full support**	RMCET0	TomB의 CT 팩
+**Full support**	RMCET6	Man - O - Wii의 작은 즐겨찾기 팩
+**Full support**	RMCET7	캠, 톰, 트로이의 CT 팩
+**Full support**	RMCEU7	마리오 카트 Wii 울트라 팩
+**Full support**	RMCEUW	Super Smash Bros. Ultimate Wii Edition
+**Full support**	RMCEVI	빈티지 카트 Wii
+**Full support**	RMCEVK	바이올렛 카트 Wii
+**Full support**	RMCEVY	버라이어티 택
+**Full support**	RMCEW6	마리오 카트 Wii 얼티밋
+**Full support**	RMCEW8	와루이지 카트 Wii
+**Full support**	RMCEWS	Wine의 CT 팩
+**Full support**	RMCEX4	마리오 카트 X
+**Full support**	RMCEX5	마리오 카트 Wii - 배틀 르와이얄
+**Full support**	RMCEY3	요시의 레이싱 리조트
+**Full support**	RMCEY8	이트 카트 Wii
+**Full support**	RMCEY9	Yosh의 트랙 팩
+**Full support**	RMCEZ2	ZPL의 트랙 컬랙션
+**Full support**	RMCEZ8	제프 카트 Wii
+**Full support**	RMCEZC	제프의 CT 팩
+**Full support**	RMCP39	Wiimms 마리오 카트 Wii 펀 2018-12.유럽
+**Full support**	RMCE	마리오 카트 채널	RMCJ	마리오 카트 채널	RMCK	마리오 카트 채널	RMCP	마리오 카트 채널	RMCX	마리오 카트 Wii CTGP 레볼루션 채널
+**Full support**\nGame is region-locked.	RMKJ01	마리오 스포츠 믹스
+**Full support**\nGame is region-locked.	RMKP01	마리오 스포츠 믹스
+**Full support**\nGame is region-locked.	RMKE01	마리오 스포츠 믹스
+**Full support**\nGame is region-locked.	RMKE02	커스텀 카트 1
+**Full support**	R4QJ01	마리오 파워 사커
+**Full support**	R4QK01	마리오 파워 사커
+**Full support**	R4QE01	마리오 파워 사커
+**Full support**	R4QP01	마리오 파워 사커
+**Testing**	AMQE	Mario vs. Donkey Kong 2 - March of the Minis	AMQJ	Mario vs. Donkey Kong 2 - MiniMini Daikoushin!	AMQP	Mario vs. Donkey Kong 2 - March of the Minis
+**Testing**	V2GJ	Mario vs. Donkey Kong - Totsugeki! Mini-Land
+**Testing**	V2GE	Mario vs. Donkey Kong - Mini-Land Mayhem!
+**Testing**	KDME	Mario vs. Donkey Kong - Minis March Again!	KDMV	Mario vs. Donkey Kong - Minis March Again!
+**Full support**	WMGE	마트 레이서
+**Testing**	RMSP52	마벨: 얼티밋 얼라이언스 2
+**Testing**	RMSE52	마벨: 얼티밋 얼라이언스 2
+**Testing**	AP9J	Mawashite Tsunageru Touch Panic
+**Testing**	W8DJ	뫼비우스 드라이브
+**Full support**	WRXJ	록맨 10: 우주에서의 위협!!
+**Full support**	WRXP	메가맨 10
+**Full support**	WRXE	메가맨 10
+**Full support**	WR9J	록맨 9: 야망의 부활!!
+**Full support**	WR9P	메가맨 9
+**Full support**	WR9E	메가맨 9
+**Testing**	CRBE	Mega Man Star Force 3 - Black Ace	CRBJ	Ryuusei no Rockman 3 - Black Ace
+**Full support**	AMHE	Metroid Prime - Hunters	AMHJ	Metroid Prime - Hunters	AMHK	메트로이드 프라임 - 헌터즈	AMHP	Metroid Prime - Hunters
+**Testing**	RTLJ18	노려라! 낚시 마스터 - 세계에 도전편 
+**Full support**	WN9E	밀리터리 매드네스: 넥타리스	WN9J	넥타리스	WN9P	밀리터리 매드네스: 넥타리스
+**Testing**	WK9J	다같이 놀자! 강아지와 데굴데굴
+**Testing**	WS8J	모두의 대전 퍼즐 상하이 Wii
+**Testing**	WPXJ	모두 뛰어! 펭귄 다이빙 후퍼 루퍼
+**Testing**	RJTJ01	모두의 상식력 텔레비전
+**Testing**	RMTJ18	모모타로 전철 16 홋카이도 대이동의 권!
+**Testing**	CMOJ	Momotarou Dentetsu - 20 Shuunen
+**Working with some issues**\nFriend room works, random match maybe, password matching not.	SMTJ18	모모타로 전철 2010: 전국・유신의 영웅 대집합!의 권
+**Testing**	RM7P4F	몬스터 랩
+**Full support**	RM7E4F	몬스터 랩
+**Testing**	CFME	Monster Rancher DS
+**Testing**	RMXF78	MX vs. ATV: 언테임드	RMXP78	MX vs. ATV: 언테임드
+**Full support**	RMXE78	MX vs. ATV: 언테임드
+**Testing**	WE6E	나의 돌고래
+**Full support**	YRMP	My Secret World by Imagine
+**Full support**	YRME	My Secret World by Imagine
+**Testing**	RP4P69	마이심즈 파티
+**Testing**	RP4E69	마이심즈 파티
+**Full support**\nGame is region-locked.	CQRJ	Boku to Sim no Machi - Racing
+**Full support**\nGame is region-locked.	CQRP	MySims - Racing
+**Full support**\nGame is region-locked.	CQRE	MySims - Racing
+**Testing**	RJ6P69	마이심즈: 하늘의 영웅들
+**Testing**	RJ6E69	마이심즈: 하늘의 영웅들
+**Testing**	AFUP	Mystery Dungeon - Shiren the Wanderer
+**Testing**	AFUE	Mystery Dungeon - Shiren the Wanderer
+**Testing**	YNXE	N+
+**Full support**\nGame is region-locked.	RNEJDA	나루토 질풍전: 격투 닌자 대전 EX 3	RNEPDA	나루토 질풍전: 닌자 격돌 레볼루션 3
+**Full support**\nGame is region-locked.	RNEEDA	나루토 질풍전: 닌자 격돌 레볼루션 3
+**Full support**\nGame is region-locked.	RNEEUD	나루토 질풍전: 닌자 격돌 레볼루션 3 (언덥)
+**Testing**	SNXJDA	나루토 질풍전: 격투 닌자 대전! 스페셜
+**Testing**	AENJ	Naruto Shippuu Den - Saikyou Ninja Daikesshuu 5 - Kessen! 'Akatsuki'
+**Testing**	AENP	Naruto Shippuden - Ninja Council 3 - European Version
+**Testing**	AENE	Naruto Shippuden - Ninja Council 4
+**Testing**	YNPK	니드포스피드 프로스트리트
+**Testing**	YNPP	Need for Speed - ProStreet
+**Testing**	YNPE	Need for Speed - ProStreet
+**Testing**	CNDK	니드포스피드 언더커버
+**Testing**	CNDP	Need for Speed - Undercover
+**Testing**	CNDE	Need for Speed - Undercover
+**Working except online statistics**\nWorking except online statistics.	AFEE	New International Track & Field
+**Testing**	R7OP54	NHL 2K10
+**Testing**	R7OE54	NHL 2K10
+**Testing**	SH3E54	NHL 2K11	SH3P54	NHL 2K11
+**Partially working**\nFriend battle works; some issues in random battle; 'My Dream' untested.	R7EE8P	나이츠: 꿈의 여행	R7EJ8P	나이츠: 별이 쏟아지는 밤의 이야기	R7EP8P	나이츠: 꿈의 여행
+**Testing**	AZLP	Nintendo Presents - Style Boutique
+**Full support**	RNRJ41	니트로 바이크
+**Full support**	RNRP41	니트로 바이크
+**Full support**	RNRE41	니트로 바이크
+**Testing**	RTKE5Z	옥토매니아
+**Testing**	WF5J	오키라쿠 대부호 Wii
+**Full support**	WSAE	온슬롯	WSAJ	매드섹타	WSAP	온슬롯
+**Full support**	AQAP	Open Season
+**Full support**	AQAE	Open Season
+**Testing**	WOLJ	오델로
+**Testing**	WOTE	오버턴	WOTP	오버턴: 메카 대전
+**Testing**	WOTJ	오버턴
+**Full support**	BR5P	Magical Michael Pang
+**Testing**	AQPP	Panzer Tactics DS
+**Testing**	AQPE	Panzer Tactics DS
+**Partially working**\nFree play doesn't work.	C24E	Phantasy Star 0	C24J	Phantasy Star 0	C24P	Phantasy Star 0
+**Testing**	W2FP	피지오펀: 균형 훈련
+**Full support**	AXPE	Picross DS	AXPJ	Picross DS	AXPK	숫자로 찾는 그림퍼즐 피크로스 DS	AXPP	Picross DS
+**Full support**	WPIJ	핏 크루 패닉!
+**Full support**	WPIP	핏 크루 패닉!
+**Full support**	WPIE	핏 크루 패닉!
+**Full support**	A8NE	Planet Puzzle League	A8NJ	Panel de Pon DS	A8NP	Puzzle League DS
+**Full support**	RPBE01	포켓몬 배틀 레볼루션	RPBJ01	포켓몬 배틀 레볼루션	RPBP01	포켓몬 배틀 레볼루션
+**Working except online statistics**\nGame Sync, Rating Battles and Competitions do not work, due to pkmn-classic not (yet) supporting them. Random Matchups currently fail.	IRAD	Pokémon - Weisse Edition	IRAF	Pokémon - Version Blanche	IRAI	Pokémon - Versione Bianca	IRAJ	Pokémon - White	IRAK	포켓몬스터 - 화이트	IRAO	Pokémon - White Version	IRAS	Pokémon - Edicion Blanca
+**Working except online statistics**\nTrainer Rankings don't work — out of scope of Wiimmfi.	ADAD	Pokémon - Diamant-Edition	ADAE	Pokémon - Diamond Version	ADAF	Pokémon - Version Diamant	ADAI	Pokémon - Versione Diamante	ADAJ	Pocket Monsters - Diamond	ADAS	Pokémon - Edicion Diamante
+**Working except online statistics**\nTrainer Rankings don't work — out of scope of Wiimmfi.	ADAK	포켓몬스터DP - 디아루가
+**Testing**	WPFJ	포켓몬 불가사의 던전 나아가라! 화염의 모험단
+**Testing**	YFYE	Pokémon Mystery Dungeon - Explorers of Darkness	YFYJ	Pokémon Fushigi no Dungeon - Yami no Tankentai	YFYK	포켓몬 불가사의 던전 - 어둠의 탐험대	YFYP	Pokémon Mystery Dungeon - Explorers of Darkness
+**Testing**	YFYE	Pokémon Mystery Dungeon - Explorers of Darkness	YFYJ	Pokémon Fushigi no Dungeon - Yami no Tankentai	YFYK	포켓몬 불가사의 던전 - 어둠의 탐험대	YFYP	Pokémon Mystery Dungeon - Explorers of Darkness
+**Testing**	YFYE	Pokémon Mystery Dungeon - Explorers of Darkness	YFYJ	Pokémon Fushigi no Dungeon - Yami no Tankentai	YFYK	포켓몬 불가사의 던전 - 어둠의 탐험대	YFYP	Pokémon Mystery Dungeon - Explorers of Darkness
+**Testing**	YFYE	Pokémon Mystery Dungeon - Explorers of Darkness	YFYJ	Pokémon Fushigi no Dungeon - Yami no Tankentai	YFYK	포켓몬 불가사의 던전 - 어둠의 탐험대	YFYP	Pokémon Mystery Dungeon - Explorers of Darkness
+**Full support**	YP2E	Pokémon Ranger - Shadows of Almia	YP2J	Pokémon Ranger - Batonnage	YP2P	Pokémon Ranger - Shadows of Almia
+**Testing**	WBSJ	팝
+**Testing**	WBSP	팝
+**Testing**	WBSE	팝
+**Full support**	RWEPA4	프로 에볼루션 축구 2008
+**Testing**	YW8P	Pro Evolution Soccer 2008
+**Testing**	YW8E	Pro Evolution Soccer 2008
+**Testing**	R2WEA4	프로 에볼루션 싸커 2009	R2WJA4	위닝 일레븐 플레이 메이커 2009	R2WXA4	프로 에볼루션 축구 2009
+**Full support**	R2WPA4	프로 에볼루션 싸커 2009
+**Full support**	SUXEA4	프로 에볼루션 싸커 2010	SUXJA4	위닝 일레븐 플레이 메이커 2010	SUXXA4	프로 에볼루션 싸커 2010	SUXYA4	프로 에볼루션 싸커 2010
+**Full support**	SUXPA4	프로 에볼루션 싸커 2010
+**Full support**	SPVPA4	프로 에볼루션 싸커 2011
+**Full support**	SPVEA4	프로 에볼루션 싸커 2011
+**Testing**\nNeeds feedback	S2PEA4	프로 에볼루션 싸커 2012	S2PJA4	위닝 일레븐 플레이 메이커 2012	S2PXA4	프로 에볼루션 싸커 2012	S2PYA4	프로 에볼루션 싸커 2012
+**Testing**\nNeeds feedback	S2PE41	저스트 댄스 2020 플러스
+**Full support**	S2PPA4	프로 에볼루션 싸커 2012
+**Full support**	S3IEA4	프로 에볼루션 싸커 2013	S3IXA4	프로 에볼루션 싸커 2013	S3IYA4	프로 에볼루션 싸커 2013
+**Full support**	S3IPA4	프로 에볼루션 싸커 2013
+**Testing**	AWEP	Pro Evolution Soccer 6
+**Testing**	RFMJAF	프로 야구 패밀리 스타디움
+**Testing**	YFAJ	Pro Yakyuu Famista DS
+**Full support**	BLFJ	Layton Kyouju to Majin no Fue
+**Full support**	BLFD	Professor Layton und der Ruf des Phantoms	BLFF	Professeur Layton et l'Appel du Spectre	BLFI	Il Professor Layton e il Richiamo dello Spettro	BLFP	Professor Layton and the Spectre's Call	BLFS	El Profesor Layton y la Llamada del Espectro
+**Full support**	BLFE	Professor Layton and the Last Specter
+**Full support**	CP7E	Puffins - Island Adventure
+**Full support**	E5YJ	뿌요 뿌요
+**Full support**	BYOJ	Puyo Puyo 7
+**Full support**	E5XJ	뿌요 뿌요 썬
+**Full support**	APUJ	Puyo Puyo! - Puyopuyo 15th Anniversary
+**Testing**	TP4J	Puyo Puyo!! - Puyopuyo 20th Anniversary
+**Testing**	YZKJ	Quiz Magic Academy DS
+**Testing**	RGWJ41	엽기토끼: 집으로
+**Testing**	RGWJ	레비즈 채널
+**Testing**	RGWP41	엽기토끼: 집으로
+**Testing**	RGWP	레비즈 채널
+**Testing**	RGWE41	엽기토끼: 집으로
+**Testing**	RGWE	레비즈 채널
+**Full support**	A3WP	Race Driver - Create & Race
+**Full support**	A3WE	Race Driver - Create & Race
+**Full support**	YG6P	Race Driver - Grid
+**Testing**	WRIJ	레인보우 아일랜즈: 타워링 어드벤처!
+**Testing**	WRIP	레인보우 아일랜즈: 타워링 어드벤처!
+**Testing**	WRIE	레인보우 아일랜즈: 타워링 어드벤처!
+**Full support**	RY2J41	래빗츠 파티 리턴즈
+**Full support**	RY2K41	래이맨 엽기토끼 2
+**Full support**	RY2P41	레이맨 엽기토끼 2
+**Full support**	RY2E41	레이맨 엽기토끼 2
+**Testing**	STDEFP	재장전
+**Testing**	SS7EFP	레밍턴 슈퍼 슬램 헌팅: 아프리카
+**Testing**	SBSEFP	레밍턴 슈퍼 슬램 사냥: 북미
+**Testing**	SBSE01	뉴 슈퍼 마리오 브라더스 Wii - 17 쿠파의 최후의 승리
+**Testing**	SBDP08	레지던트 이블: 암흑 연대기
+**Testing**	SBDE08	레지던트 이블: 암흑 연대기
+**Testing**	ANYE	River King - Mystic Valley
+**Full support**	WZIP	루빅의 퍼즐 갤럭시: 러쉬
+**Full support**	WZIE	루빅의 퍼즐 갤럭시 러쉬
+**Testing**	A6CJ	Ryuusei no Rockman - Dragon
+**Full support**\nGame is region-locked.	CRBE	Mega Man Star Force 3 - Black Ace	CRBJ	Ryuusei no Rockman 3 - Black Ace
+**Full support**	R3BE8P	쌈바 데 아미고
+**Full support**	S59E01	사무라이 전사 3	S59P01	사무라이 전사 3
+**Full support**	S59JC8	전국무쌍 3
+**Testing**	A3FJ	Sangokushi DS 2
+**Testing**	A3DJ	Sangokushi Taisen DS
+**Full support**	BSLP	Scribblenauts
+**Full support**	BSLE	Scribblenauts
+**Full support**	BH2J	Super Scribblenauts
+**Full support**	BH2E	Super Scribblenauts
+**Testing**	WE6J	바다 농장: 돌고래와 나의 쇼타임
+**Testing**	CNVJ	Sekai no Gohan - Shaberu! DS Oryouri Navi
+**Testing**\nThe twin »Samurai Warriors 3« works. This variant needs tests.	S59E01	사무라이 전사 3	S59P01	사무라이 전사 3
+**Testing**\nThe twin »Samurai Warriors 3« works. This variant needs tests.	S59JC8	전국무쌍 3
+**Testing**	S5QJC8	전국무쌍 3 무쌍전
+**Full support**	RTKE5Z	옥토매니아
+**Full support**	RTKJDQ	모두 함께~☆ 타코롱
+**Testing**	RTKK8M	모두 함께~☆ 타코롱
+**Testing**	R6NP41	숀 화이트 스노우보딩: 월드 스테이지
+**Testing**	R6NE41	숀 화이트 스노우보딩: 월드 스테이지
+**Full support**	YS6E	Sid Meier's Civilization Revolution	YS6P	Sid Meier's Civilization Revolution
+**Testing**	BCLE	Sideswiped
+**Testing**	R4CJ13	심시티 나만의 도시
+**Testing**	R4CK69	심시티 나만의 도시
+**Testing**	R4CP69	심시티 나만의 도시
+**Testing**	R4CE69	심시티 나만의 도시
+**Testing**	WDIJ	심플 Wii 시리즈 볼륨 1: 블록 쿠즈시 네오
+**Testing**	WD2J	심플 Wii 시리즈 볼륨 2: 넘버 퍼즐 네오
+**Testing**	WZMJ	심플 Wii 시리즈 볼륨 3: 마작
+**Testing**	WZJJ	@ 심플 시리즈 볼륨 5: 유도
+**Full support**	RZ2JG9	심플 Wii 시리즈 볼륨 1: 모두의 카트 레이스
+**Testing**	RZ3JG9	심플 Wii 시리즈 볼륨 2: 모두의 배스 낚시대회
+**Full support**	RZ4JG9	심플 Wii 시리즈 볼륨 3: 놀면서 배우는 파티 카지노
+**Full support**	RZ5JG9	심플 Wii 시리즈 볼륨 4: 슈팅 액션
+**Testing**	RZ6JG9	심플 Wii 시리즈 볼륨 5: 블록 허물기
+**Full support**	RZ7JG9	심플 Wii 시리즈 볼륨 6: 와글 와글 컴뱃
+**Testing**	R2VE01	죄와 벌: 우주의 후계자
+**Testing**	R2VP01	죄와 벌: 우주의 후계자
+**Testing**	R2VJ01	죄와 벌: 우주의 후계자
+**Full support**	CSVP00	스타싱: 비틀즈 볼륨 1 v2.0
+**Full support**	CSVE	Skate It	CSVP	Skate It
+**Testing**	WSZP	스니지즈
+**Testing**	WSZE	스니지즈
+**Full support**	WBBJ	보드 전사
+**Testing**	VCDJ	Solatorobo - Sorekara Coda e
+**Testing**	VCDE	Solatorobo - Red the Hunter
+**Full support**	CS3P00	스타싱: 볼륨 1 v2.0
+**Full support**	CS3PZZ	스타싱: 찬송가 v2.0
+**Full support**	CS3E	Sonic & Sega All-Stars Racing	CS3P	Sonic & Sega All-Stars Racing
+**Full support**	R3RE8P	소닉 & 세가 올 스타즈 레이싱	R3RP8P	소닉 & 세가 올 스타즈 레이싱
+**Full support**	RENE8P	소닉과 검은 기사	RENJ8P	소닉과 검은 기사	RENP8P	소닉과 검은 기사
+**Full support**	BXSE	Sonic Colors	BXSJ	Sonic Colors	BXSP	Sonic Colours
+**Full support**	SNCJ8P	소닉 컬러즈
+**Full support**	SNCP8P	소닉 컬러즈
+**Full support**	SNCE8P	소닉 컬러즈
+**Full support**	RS9J8P	소닉 라이더스: 슈팅 스타 이야기	RS9P8P	소닉 라이더스: 무중력
+**Full support**	RS9J8P	소닉 라이더스: 슈팅 스타 이야기	RS9P8P	소닉 라이더스: 무중력
+**Full support**	RS9E8P	소닉 라이더스: 무중력
+**Full support**	A3YD	Sonic Rush Adventure	A3YE	Sonic Rush Adventure	A3YJ	Sonic Rush Adventure	A3YP	Sonic Rush Adventure
+**Full support**	A3YK	소닉 러시 어드벤처
+**Full support**	WSNJ	바람돌이 소닉 4: 에피소드 I
+**Full support**	YXXE	Space Invaders Extreme	YXXJ	Space Invaders Extreme	YXXP	Space Invaders Extreme
+**Full support**	WIVJ	스페이스 인베이더즈 겟 이븐
+**Full support**	WIVP	스페이스 인베이더즈 겟 이븐
+**Full support**	WIVE	스페이스 인베이더즈 겟 이븐
+**Full support**	CB6E	Space Bust-A-Move	CB6P	Puzzle Bobble Galaxy
+**Full support**	CB6J	Space Puzzle Bobble
+**Testing**	W4TP	스페이스볼 레볼루션
+**Testing**	W4TE	스페이스볼 레볼루션
+**Testing**\nNo support for DGamer functionality.	YV4J	Chou Kaseki Monster Battle - Gekitotsu Galaxy
+**Testing**\nNo support for DGamer functionality.	YV4P	Spectrobes - Beyond the Portals
+**Testing**\nNo support for DGamer functionality.	YV4E	Spectrobes - Beyond the Portals
+**Testing**	RXXJ4Q	스펙트로브스: 오리진스
+**Testing**	RXXE4Q	스펙트로브스: 오리진스
+**Testing**	C49J	Spore - Kimi ga Tsukuru Hero
+**Testing**	C49P	Spore Hero Arena
+**Testing**	C49E	Spore Hero Arena
+**Full support**	ASFE	Star Fox Command	ASFJ	Star Fox Command	ASFP	Star Fox Command
+**Full support**	WBQJ	스타 솔져 R
+**Full support**	WBQP	스타 솔져 R
+**Full support**	WBQE	스타 솔져 R
+**Testing**	YP9J	Steal Princess - Touzoku Koujo
+**Testing**	YP9E	Steal Princess
+**Testing**	VJWE	Style Lab - Jewelry Design
+**Testing**	BYLE	Style Lab - Fashion Design
+**Testing**	AZLE	Style Savvy
+**Partially working**\nTeam Plaza and Bonus Data do not work. Game is region locked.	VDEJ	Super Kaseki Horider
+**Testing**	BH2P	Super Scribblenauts
+**Testing**	BH2E	Super Scribblenauts	BH2J	Super Scribblenauts	BH2X	Super Scribblenauts
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE01	대난투 스매시 브라더스 X	RSBJ01	대난투 스매시 브라더스 X	RSBP01	대난투 스매시 브라더스 X
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE02	슈퍼 스매시 브라더스 프로젝트 엠 레드 버전	RSBP02	Master4Robin의 대난투 스매시 브라더스 X 핵 팩
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE03	대난투 스매시 브라더스 X DX
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE04	슈퍼 스매시 브라더스 프로젝트 엠+
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE05	슈퍼 스매시 브라더스 프로젝트 엠 Patt 에디션
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE06	Darkon360의 대난투 핵 팩
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE07	슈퍼 스매시 브라더스 프로젝트 엠: Theytah의 커스텀 빌드
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE08	말란 프로젝트 엠 3.6
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE09	Springboy64의 대난투 핵 팩
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE10	대난투 Ying Yang 에디션
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE11	MGW 교수의 토너먼트 핵 팩 #1
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE12	MGW 교수의 토너먼트 핵 팩 #2
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE13	MGW 교수의 토너먼트 핵 팩 #3
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE14	대난투 스매시 브라더스 X: 제우스
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE15	대난투 스매시 브라더스 X 마이너스 뮤겐
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE16	대난투 스매시 브라더스 X 쇼크
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE17	대난투 스매시 브라더스 X 배틀필드 빌드
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE18	슈퍼 스매시 브라더스 프로젝트 M: 토너먼트 핵 팩
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE19	슈퍼 스매시 브라더스 프로젝트 M: 풀리 드레스드 에디션
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE20	Pikezer의 BrawlEx 팩
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE21	Calabrel의 커스텀 프로젝트 M 빌드
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE22	프로젝트 M: Rage83의 컴페터티브 커스텀 빌드
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE23	슈퍼 스매시 브라더스 프로젝트 M: 저스티스 빌드
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE24	슈퍼 스매시 브라더스 3
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE25	슈퍼 스매시 브라더스 레드 버전
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE26	슈퍼 스매시 브라더스 실버
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE27	Springboy64의 대난투 스매시 브라더스 X 핵 팩
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE28	SuperYoshiStar의 슈퍼 스매시 브라더스 대난투 핵 팩
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE29	슈퍼 스매시 브라더스 프로젝트 M: YoeiX 커스텀 빌드
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE30	슈퍼 스매시 브라더스 프로젝트 M: Arko의 로디드 커스텀 빌드
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE31	슈퍼 스매시 브라더스 프로젝트 M: Arko의 토너먼트 커스텀 빌드
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE32	슈퍼 스매시 브라더스 프로젝트 M: Sempai의 빌드
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE33	대난투 스매시 브라더스 X 음양 에디션 2: 규의 균형
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE34	슈퍼 스매시 브라더스 프로젝트 U: 블루 버전
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE35	대난투 스매시 브라더스 X 레거시: 프로젝트 M
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE36	슈퍼 스매시 브라더스 프로젝트 베스트
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE37	슈퍼 스매시 브라더스 프로젝트 M: Psycho Ghost의 빌드
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE38	슈퍼 스매시 시스터즈 제너레이션즈 2
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE39	슈퍼 스매시 브라더스 울트라 프로젝트 M
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE40	슈퍼 스매시 브라더스 프로젝트 M: 라그나로크 에디션
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE41	슈퍼 스매시 브라더스 프로젝트 M: Calabrel의 커스텀 빌드
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE42	슈퍼 스매시 브라더스 프로젝트 M: RedX 애니메/게임 커스텀 빌드
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE43	대난투 스매시 브라더스 X: MASTERLINKX의 커스텀 팩
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE44	대난투 스매시 브라더스 X: 섀도우 버전
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE45	대난투 스매시 브라더스 X: Shock44의 커스텀 빌드
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE46	대난투 스매시 브라더스 X: DragonD101의 텍스쳐 팩
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE47	대난투 스매시 브라더스 X: XChosen1의 텍스쳐 팩
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE49	대난투 스매시 브라더스 X: 워터 블록 에디션
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE50	슈퍼 스매시 브라더스 프로젝트 U: 울트라 버전
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBE51	Super Smash Bros. Project M: Zell's Competitive Build
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBEAA	마벨과 캡콤 vs 슈퍼 스매시 브라더스
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBEBB	슈퍼 스매시 브라더스 균형잡힌 대난투
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBEBM	대난투 스매시 브라더스 X 마이너스
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBEBP	대난투 스매시 브라더스 X 플러스
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBEC3	슈퍼 스매시 브라더스 프로젝트 M 3.5 넷플레이 빌드
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBEDH	대난투 스매시 브라더스 X 다크 홀/D.A.R.S.
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBEDT	슈퍼 스매시 브라더스 얼티밋 다크 피닉스: 토너먼트 에디션
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBEN1	슈퍼 스매시 브라더스 프로젝트 M
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBEPM	슈퍼 스매시 브라더스 프로젝트 M
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBEPW	슈퍼 스매시 브라더스 프로젝트 M Wi-Fi
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBETE	슈퍼 스매시 브라더스 레거시 TE
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBEWM	슈퍼 스매시 브라더스 프로젝트 M Wi-Fi
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBEXP	슈퍼 스매시 브라더스 레거시 XP
+**Full support**\nUse RiiConnect24 DNS (164.132.44.106) for spectator mode and submissions.	RSBK01	대난투 스매시 브라더스
+**Partially working**\nGame is region-locked. Random battle doesn't seem to ever find anyone. Game needs more investigation.	MC3P	슈퍼 스트리트 파이터 II: 새로운 도전자들
+**Partially working**\nGame is region-locked. Random battle doesn't seem to ever find anyone. Game needs more investigation.	MC3E	슈퍼 스트리트 파이터 II: 새로운 도전자들
+**Full support**	AXUP	Surf's Up
+**Full support**	AXUE	Surf's Up
+**Testing**	WTMJ	타카하시 명인의 모험도 Wii
+**Testing**	STGJAF	테일즈 오브 그레이세스
+**Testing**	AKBP	Tank Battles
+**Testing**	AKBJ	Tank Beat
+**Testing**	AKBE	Tank Beat
+**Testing**	YKBJ	Tank Beat 2 - Gekitotsu! Duits-gun vs. Rengougun
+**Testing**	YKBK	TANK BEAT 2 격돌! 전차 대전
+**Full support**	WL2E	타겟 토스 프로: 론 다츠
+**Testing**	WM9J	두드려라! 모구뽄
+**Full support**	STKE08	타츠노코 vs. 캡콤: 얼티밋 올 스타즈	STKJ08	타츠노코 vs. 캡콤: 얼티밋 올 스타즈	STKP08	타츠노코 vs. 캡콤: 얼티밋 올 스타즈
+**Full support**	R2TE41	돌연변이 닌자 거북: 대충돌	R2TP41	돌연변이 닌자 거북: 대충돌
+**Testing**	YWJE	WordJong	YWJF	Télé 7 Jeux Inedits - WordJong	YWJP	WordJong
+**Testing**	ACUE	Tenchu - Dark Secret
+**Testing**	ACUJ	Tenchu - Dark Shadow
+**Full support**	ATRE	Tetris DS	ATRJ	Tetris DS	ATRK	테트리스 DS	ATRP	Tetris DS
+**Full support**	B4TE	Tetris Party Deluxe	B4TJ	Tetris Party Premium	B4TP	Tetris Party Deluxe
+**Full support**	WTPE	테트리스 파티	WTPJ	테트리스 파티	WTPP	테트리스 파티
+**Full support**	WPKE	텍사스 홀덤 포커	WPKP	텍사스 홀덤 포커
+**Full support**	WTXE	텍사스 홀덤 토너먼트
+**Full support**	RCJE8P	컨듀잇	RCJP8P	컨듀잇
+**Full support**	SC2P8P	컨듀잇 2
+**Full support**	SC2E8P	컨듀잇 2
+**Testing**	VIMJ	The Idolm@ster - Dearly Stars
+**Full support**	SLSJ01	마지막 이야기
+**Full support**	SLSP01	마지막 이야기
+**Full support**	SLSEXJ	마지막 이야기
+**Full support**	AZEE	The Legend of Zelda - Phantom Hourglass	AZEJ	Zelda no Densetsu - Mugen no Sunadokei	AZEK	젤다의 전설 - 몽환의 모래시계	AZEP	The Legend of Zelda - Phantom Hourglass
+**Testing**	A3HP	The Suite Life of Zack & Cody - Circle of Spies
+**Full support**	A3HE	The Suite Life of Zack & Cody - Circle of Spies
+**Full support**	W3KJ	질주해서 빠져나가는 아나토우스
+**Full support**	W3KP	스루스페이스: 하이 벨로시티 3D 퍼즐
+**Full support**	W3KE	스루스페이스
+**Full support**	WENP	TNT 레이서즈
+**Full support**	WENE	TNT 레이서즈
+**Testing**	R89JEL	도쿄 친구 공원 II
+**Full support**	SGHP41	톰 클랜시의 고스트 리콘
+**Full support**	SGHE41	톰 클랜시의 고스트 리콘
+**Full support**	WT3J	토메나 산너 Wii
+**Full support**	WT3P	토메나 산너
+**Full support**	WT3E	토메나 산너
+**Testing**	AH9P	Tony Hawk's American Sk8land
+**Testing**	AH9E	Tony Hawk's American Sk8land
+**Testing**	AWKP	Tony Hawk's Downhill Jam
+**Testing**	AWKE	Tony Hawk's Downhill Jam
+**Testing**	YT9P	Tony Hawk's Proving Ground
+**Testing**	YT9E	Tony Hawk's Proving Ground
+**Full support**	WA7E	토리바쉬
+**Full support**	WA7P	토리바시: 완벽한 폭력
+**Full support**	BT2E	TrackMania Turbo	BT2P	TrackMania Turbo
+**Working with some issues**\nLeaderboards and track sharing don't work.	R6REJH	트랙매니아: 레이스 제작
+**Working with some issues**\nLeaderboards and track sharing don't work.	R6RPHH	트랙매니아
+**Full support**	RK2P01	트라우마 센터: 새로운 피
+**Full support**	RK2EEB	트라우마 센터: 새로운 피
+**Full support**	RK2EUD	트라우마 센터: 새로운 피 (언덥)
+**Testing**	WASJ	통신 대국: 조기 장기 3 단
+**Full support**	WARJ	통신 대국 바둑 도장 2700 문
+**Full support**	WTKE	TV 쇼 킹 2	WTKP	TV 쇼 킹 2
+**Full support**	SU4P78	UFC 개인 트레이너: 얼티밋 피트니스 시스템
+**Full support**	SU4E78	UFC 개인 트레이너: 얼티밋 피트니스 시스템
+**Testing**	RULP4Q	얼티밋 밴드
+**Testing**	RULE4Q	얼티밋 밴드
+**Testing**	YUTP	Ultimate Mortal Kombat
+**Testing**	YUTE	Ultimate Mortal Kombat
+**Full support**	KUNE	Uno
+**Full support**	WUNE	우노	WUNJ	우노	WUNP	우노
+**Testing**	RVKJ99	발할라 나이츠: 엘더 사가
+**Testing**	RVKKZA	발할라 나이츠: 엘더 사가
+**Testing**	RVKP99	발할라 나이츠: 엘더 사가
+**Testing**	RVKEXJ	발할라 나이츠: 엘더 사가
+**Full support**	WEVJ	Peakvox 탈출 바이러스
+**Full support**	WEVP	바이러스 생존
+**Full support**	WEVE	바이러스 생존
+**Testing**	RVUP8P	버추어 테니스 2009
+**Testing**	RVUE8P	버추어 테니스 2009
+**Full support**	SV4E8P	버추어 테니스 4	SV4P8P	버추어 테니스 4
+**Testing**	AZLJ	Wagamama Fashion - Girls Mode
+**Testing**	AW4E	Warhammer 40,000 - Squad Command
+**Full support**	UORE	WarioWare - D.I.Y.	UORP	WarioWare - Do It Yourself
+**Full support**	UORJ	Made in Ore
+**Full support**	WVKE	수중 전투	WVKJ	뱅 뱅 키즈	WVKP	수중 전투
+**Full support**	RWGE08	우리는 골프를 사랑해요!	RWGJ08	우리는 골프를 사랑해요!	RWGP08	우리는 골프를 사랑해요!
+**Testing**	RTGJ18	Wi-Fi 지원 엄선 테이블 게임 Wii
+**Testing**	AYKJ	Wi-Fi Taiou - Yakuman DS
+**Full support**	RTYP01	Wii 체스
+**Full support**\nRiiConnect24 required to make Wii Friends with other users.	HCFE	Wi 스피크 채널	HCFJ	Wi 스피크 채널	HCFK	Wi 스피크 채널	HCFP	Wi 스피크 채널
+**Testing**	AWEE	Winning Eleven - Pro Evolution Soccer 2007
+**Testing**	R2WEA4	프로 에볼루션 싸커 2009	R2WJA4	위닝 일레븐 플레이 메이커 2009	R2WPA4	프로 에볼루션 싸커 2009	R2WXA4	프로 에볼루션 축구 2009
+**Testing**	SUXEA4	프로 에볼루션 싸커 2010	SUXJA4	위닝 일레븐 플레이 메이커 2010	SUXPA4	프로 에볼루션 싸커 2010	SUXXA4	프로 에볼루션 싸커 2010	SUXYA4	프로 에볼루션 싸커 2010
+**Full support**	SJWJA4	위닝 일레븐 플레이 메이커 2010 푸른 사무라이의 도전
+**Testing**\nNeeds feedback	SW4JA4	위닝 일레븐 플레이 메이커 2011
+**Testing**\nNeeds feedback	S2PEA4	프로 에볼루션 싸커 2012	S2PJA4	위닝 일레븐 플레이 메이커 2012	S2PPA4	프로 에볼루션 싸커 2012	S2PXA4	프로 에볼루션 싸커 2012	S2PYA4	프로 에볼루션 싸커 2012
+**Testing**\nNeeds feedback	S2PE41	저스트 댄스 2020 플러스
+**Full support**	SAAJA4	위닝 일레븐 플레이 메이커 2013
+**Testing**	RZIPRT	동계 스포츠 2010: 위대한 토너먼트
+**Testing**	SPOPFR	동계 스포츠 2011: 금메달을 향해
+**Testing**	RZIE20	동계 스포츠 3: 위대한 토너먼트
+**Testing**	SW3PKM	동계 스타들
+**Testing**	SW3EJJ	동계 스타들
+**Full support**	YGDP	Winx Club - Secret Diary 2009
+**Testing**	YWJF	Télé 7 Jeux Inedits - WordJong	YWJP	WordJong
+**Testing**	YWJE	WordJong
+**Testing**	YA8E	World Championship Games - A Track & Field Event
+**Full support**	WGOJ	구의 세계
+**Full support**	WGOE	구의 세계	WGOP	구의 세계
+**Testing**	AWEJ	World Soccer - Winning Eleven DS
+**Testing**	AWEK	월드 사커 위닝일레븐 DS
+**Testing**	YW8J	World Soccer Winning Eleven DS - Goal x Goal!
+**Testing**	SILE78	웜즈: 배틀 아일랜드	SILP78	웜즈: 배틀 아일랜드
+**Testing**	SILP4Q	싱 잇 라틴
+**Full support**	AW2E	Worms - Open Warfare 2
+**Testing**	RW9P78	WWE 스맥다운 vs. Raw 2009	RW9X78	WWE 스맥다운 vs. Raw 2009
+**Testing**	WAQJ	역만 Wii 이데 요스케의 건강 마작
+**Testing**	SPYDSV	예티스포츠: 펭귄 파티 섬
+**Testing**	R8DEA4	유희왕! 5D: 듀얼 트랜져	R8DJA4	유희왕! 5D's: 듀얼 트랜져	R8DPA4	유희왕! 5D: 카드 마스터
+**Testing**\nGame needs the PEERCHAT server.	RZNJ01	참격의 레긴레이브
