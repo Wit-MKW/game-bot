@@ -256,7 +256,7 @@ translate = []
 langs_p = ('EN', 'JA', 'FR', 'DE', 'ES', 'IT', 'NL', 'PT', 'RU', 'KO', 'ZHCN', 'ZHTW') # Changes when someone submits a translated db
 flags_p = ('🇬🇧', '🇯🇵', '🇫🇷', '🇩🇪', '🇪🇸', '🇮🇹', '🇳🇱', '🇵🇹', '🇷🇺', '🇰🇷', '🇨🇳', '🇹🇼')
 langs_s = ('EN', 'JA', 'FR', 'DE', 'ES', 'IT', 'NL',             'KO'                ) # Never changes
-flags_s = ('🇬🇧', '🇯🇵', '🇫🇷', '🇩🇪', '🇪🇸', '🇮🇹', '🇳🇱', '🇰🇷', '❌')
+flags_s = ('🇬🇧', '🇯🇵', '🇫🇷', '🇩🇪', '🇪🇸', '🇮🇹', '🇳🇱', '🇰🇷', '❌') # ❌ repeats whatever flag is used primarily
 langs_m = ('EN',                                                                     ) # Changes when someone submits translated messages
 flags_m = ('🇬🇧',)
 
@@ -286,20 +286,21 @@ class Bot(discord.Client):
                         lang_m = lang[1][2]
                         break
                 index_m = langs_m.index(lang_m)
-                for member in guild.members:
-                    if (member in members):
-                        continue
-                    members.append(member)
-                    member_m = 'EN'
-                    for lang in langs:
-                        if (lang[0] == member.id):
-                            member_m = lang[1][2]
-                            break
-                    index_member = langs_m.index(member_m)
-                    try:
-                        await member.send(translate[index_member][19])
-                    except:
-                        print('Couldn\'t send to {0}'.format(member.user))
+                # We're not DM'img people. W e ' r e   n o t .
+                # for member in guild.members:
+                #     if (member in members):
+                #         continue
+                #     members.append(member)
+                #     member_m = 'EN'
+                #     for lang in langs:
+                #         if (lang[0] == member.id):
+                #             member_m = lang[1][2]
+                #             break
+                #     index_member = langs_m.index(member_m)
+                #     try:
+                #         await member.send(translate[index_member][19])
+                #     except:
+                #         print('Couldn\'t send to {0}'.format(member))
                 for channel in guild.text_channels:
                     if (not guild.me.permissions_in(channel).send_messages):
                         continue
@@ -326,6 +327,10 @@ class Bot(discord.Client):
                     lang_s = lang[1][1]
                     lang_m = lang[1][2]
                     break
+                if (message.guild != None and lang[0] == message.guild.id):
+                    lang_p = lang[1][0]
+                    lang_s = lang[1][1]
+                    lang_m = lang[1][2]
             index_games = langs_p.index(lang_p)
             index_second = langs_p.index(lang_s)
             index_msg = langs_m.index(lang_m)
@@ -378,6 +383,10 @@ class Bot(discord.Client):
                     lang_s = lang[1][1]
                     lang_m = lang[1][2]
                     break
+                if (message.guild != None and lang[0] == message.guild.id):
+                    lang_p = lang[1][0]
+                    lang_s = lang[1][1]
+                    lang_m = lang[1][2]
             index_games = langs_p.index(lang_p)
             index_second = langs_p.index(lang_s)
             index_msg = langs_m.index(lang_m)
@@ -412,6 +421,10 @@ class Bot(discord.Client):
                     lang_s = lang[1][1]
                     lang_m = lang[1][2]
                     break
+                if (message.guild != None and lang[0] == message.guild.id):
+                    lang_p = lang[1][0]
+                    lang_s = lang[1][1]
+                    lang_m = lang[1][2]
             index_games = langs_p.index(lang_p)
             index_second = langs_p.index(lang_s)
             index_msg = langs_m.index(lang_m)
@@ -438,7 +451,7 @@ class Bot(discord.Client):
             lang_s = 'EN'
             lang_m = 'EN'
             for lang in langs:
-                if (lang[0] == message.guild.id):
+                if (message.guild != None and lang[0] == message.guild.id):
                     lang_p = lang[1][0]
                     lang_s = lang[1][1]
                     lang_m = lang[1][2]
@@ -474,9 +487,9 @@ class Bot(discord.Client):
                 if (not (message.channel.permissions_for(member).read_messages
                     and message.channel.permissions_for(member).send_messages)):
                     continue
-                member_lang = 'EN'
-                member_s = 'EN'
-                member_m = 'EN'
+                member_lang = lang_p
+                member_s = lang_s
+                member_m = lang_m
                 for lang in langs:
                     if (lang[0] == message.author.id):
                         lang_p = lang[1][0]
@@ -524,6 +537,10 @@ class Bot(discord.Client):
                     lang_s = lang[1][1]
                     lang_m = lang[1][2]
                     break
+                if (message.guild != None and lang[0] == message.guild.id):
+                    lang_p = lang[1][0]
+                    lang_s = lang[1][1]
+                    lang_m = lang[1][2]
             index_games = langs_p.index(lang_p)
             index_second = langs_p.index(lang_s)
             index_msg = langs_m.index(lang_m)
@@ -553,12 +570,14 @@ class Bot(discord.Client):
             await message.channel.send(translate[index_games][13])
 
         if (cmd[0] == 'setlang'):
-            lang = 'EN'
+            lang_m = 'EN'
             for lang in langs:
                 if (lang[0] == message.author.id):
-                    lang = lang[1][2]
+                    lang_m = lang[1][2]
                     break
-            index_games = langs_m.index(lang)
+                if (message.guild != None and lang[0] == message.guild.id):
+                    lang_m = lang[1][2]
+            index_games = langs_m.index(lang_m)
             mod_id = message.author.id
 
             try:

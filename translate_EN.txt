@@ -17,7 +17,7 @@ Deleted ping for _{0}_ (_{1}_).
 \n_{0}_ ({1})
 \n_{0}_ (_{1}_, {2})
 Title: _{0}_\nSecondary Title: _{1}_\nWiimmfi Support Status:\n{2}
-The bot is refreshing! This may take anywhere between 10 & 15 minutes, and the bot will NOT function properly during this time!
+The bot is refreshing! This may take anywhere between 10 & 15 minutes, and the bot will NOT function during this time!\nIf you do not wish to receive these alerts in this channel, prevent the bot from sending messages to it.
 Change your own language settings (:bust_in_silhouette:), or those of the server (:busts_in_silhouette:)?
 Select a primary game title language:
 The Wii and Nintendo DS cannot display in that language. Set a secondary game title language?
